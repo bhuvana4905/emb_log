@@ -1,0 +1,2 @@
+info,warn,error,panic,verdict,top_error,top_error_count
+138,43,14,1,FAIL - PANIC,2026-02-26T05:13:13.974Z [ERROR] sensor: read failed,4
